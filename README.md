@@ -1,2 +1,3 @@
-# pull-practice
-Practice pull requests on another repo (this one)
+# Practicing pull requests
+
+Use this repo to have my other self practice pull requestions.
