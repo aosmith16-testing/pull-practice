@@ -6,4 +6,4 @@ Using package **usethis** makes pull requests easy for the person proposing the 
 
 A Git client like the RStudio Git pane or GitKraken can help make pull requests easier, particularly for beginners who aren't used to using the command line.  Often times we end up doing a mix of Git client and command line to finish out the whole process.
 
-(*Don't forget this repo is associated with a hotmail account; you keep losing access to this repo!*)
+(*Don't forget this repository is associated with a hotmail account; you keep losing access to this repo!*)
