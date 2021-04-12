@@ -5,3 +5,5 @@ Use this repo to have my other self practice pull requests.  It's good to practi
 Using package **usethis** makes pull requests easy for the person proposing the edits.  Otherwise there are several steps to keep track of.
 
 A Git client like the RStudio Git pane or GitKraken can help make pull requests easier, particularly for beginners who aren't used to using the command line.  Often times we end up doing a mix of Git client and command line to finish out the whole process.
+
+Note I can no longer remember what email address this repo is associated with.
